@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+body {
+    background-color: #3f3844;
+    text-align: center;
+    text-anchor: middle;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.a001 {
+    margin-top: 5%;
+    text-align: center;
+    color: #eeeeee;
+    font-size: 4rem;
+}
+
+.a002 {
+    margin-top: 2%;
+    text-align: center;
+    color: #eeeeee;
+    font-size: 4rem;
+}
+
+.b001 {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #00ff00;
+}
+
+.c001 {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #00ff00;
+    text-decoration: none;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
